@@ -41,7 +41,7 @@ The existing `Demand_Forecast` variable was also evaluated as a baseline and is 
 
 ### Project Structure
 
-'''text
+```text
 Supply-Chain-Logistics/
 │
 ├── Capstone_Supply_Chain_Notebook.ipynb
@@ -49,7 +49,7 @@ Supply-Chain-Logistics/
 ├── P_3_supply_chain_dataset1.csv
 ├── supply_chain_cleaned_dataset.csv
 └── README.md
-'''
+```
 
 ### Running the Project
 
