@@ -53,7 +53,7 @@ Supply-Chain-Logistics/
 
 ### Running the Project
 
-Open `Capstone_Supply_Chain_Notebook.ipynb` in Jupyter Notebook or Google Colab and keep `P_3_supply_chain_dataset1.csv` available in the working directory.
+Open `Capstone_Supply_Chain_Logistics.ipynb` in Jupyter Notebook or Google Colab and keep `P_3_supply_chain_dataset1.csv` available in the working directory.
 
 Run the notebook from beginning to end. The notebook performs the analysis and generates the supporting CSV outputs in an `outputs/` folder.
 
