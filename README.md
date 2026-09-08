@@ -44,7 +44,7 @@ The existing `Demand_Forecast` variable was also evaluated as a baseline and is 
 ```text
 Supply-Chain-Logistics/
 │
-├── Capstone_Supply_Chain_Notebook.ipynb
+├── Capstone_Supply_Chain_Logistics.ipynb
 ├── Supply_Chain_Capstone_Report.pdf
 ├── P_3_supply_chain_dataset1.csv
 ├── supply_chain_cleaned_dataset.csv
