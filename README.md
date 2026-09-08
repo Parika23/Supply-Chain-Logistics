@@ -1,4 +1,4 @@
-# Optimizing Supply Chain Logistics: A Data-Driven Approach to Inventory Management and Demand Forecasting
+# Optimizing Supply Chain Logistics: A Data Driven Approach to Inventory Management and Demand Forecasting
 
 ## IDRA Final Capstone Project
 
