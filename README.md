@@ -37,7 +37,7 @@ Test performance:
 | RMSE | 2.753 |
 | R² | 0.793 |
 
-The existing `Demand_Forecast` variable was also evaluated as a baseline and is treated as a planning-time forecast for modelling purposes.
+The existing `Demand_Forecast` variable was also evaluated as a baseline and is treated as a planning time forecast for modelling purposes.
 
 ### Project Structure
 
