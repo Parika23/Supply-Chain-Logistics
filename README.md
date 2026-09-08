@@ -2,7 +2,7 @@
 
 ## IDRA Final Capstone Project
 
-This project analyzes supply chain data to understand demand patterns, inventory conditions, and factors affecting product movement. A time-aware machine learning approach is also used to predict daily demand and support inventory planning.
+This project analyzes supply chain data to understand demand patterns, inventory conditions, and factors affecting product movement. A time aware machine learning approach is also used to predict daily demand and support inventory planning.
 
 ### Project Overview
 
@@ -41,6 +41,7 @@ The existing `Demand_Forecast` variable was also evaluated as a baseline and is 
 
 ### Project Structure
 
+'''text
 Supply-Chain-Logistics/
 │
 ├── Capstone_Supply_Chain_Notebook.ipynb
@@ -48,7 +49,7 @@ Supply-Chain-Logistics/
 ├── P_3_supply_chain_dataset1.csv
 ├── supply_chain_cleaned_dataset.csv
 └── README.md
-
+'''
 
 ### Running the Project
 
